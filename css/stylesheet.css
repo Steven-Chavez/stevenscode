@@ -1,0 +1,42 @@
+body{
+	background-color: #333333;
+}
+
+.container{
+	align-content: center;
+	padding-left:10%;
+	padding-right: 10%;
+}
+
+.mainBody{
+	background-color: white;
+}
+
+h3{
+	text-align: center;
+	color: white;
+
+}
+
+h1{
+	padding-top: 5%;
+	color: white;
+}
+
+.nav{
+	background-color: black;
+	margin-bottom: 1em;
+}
+
+.profileImg{
+	margin-left: 1em;
+	border: solid 0.2em black;
+	border-radius: 2.5%;
+}
+
+.icons{
+	margin: 1em;
+	height: 15%;
+	width: 15%;
+}
+
