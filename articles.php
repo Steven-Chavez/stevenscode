@@ -39,7 +39,16 @@
 				</div>
 				<div class="row">
 					<div class="col-md-12 art">
-						<p>The articles written here are for mainly for my personal use so that I can acquire a better understanding of new and familiar concepts. Also It's difficult to find examples that make </p>
+						<br>
+						<p class="quotes">
+							<strong>
+								If you can't explain it simply, you don't understand it well enough.
+							</strong>
+							<br>
+							- Albert Einstein
+						</p>
+						<br>
+						<p>The articles written here are mainly for my personal use so that I can acquire a better understanding of new and familiar concepts. Also It's difficult to find examples that are explained in the simplest way. The articles are basically notes and a way of studying for myself. Having them on my website will give me easy access and hopefully helpful to anyone who comes across them.</p>
 					</div>
 				</div>
 			</div>
