@@ -1,20 +1,14 @@
+* {
+	box-sizing: border-box;
+}
+
+
+
 body{
 	background-color: #333333;
-}
-
-.container{
-	align-content: center;
-	padding-left:10%;
-	padding-right: 10%;
-}
-
-.mainBody{
-	background-color: white;
-}
-
-h3{
-	text-align: center;
-	color: white;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	width: 100%;
+	color: black;
 
 }
 
@@ -23,9 +17,55 @@ h1{
 	color: white;
 }
 
+h2{
+	color: black;
+}
+
+h3{
+	text-align: center;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+	text-decoration: none;
+}
+
+.tab:hover{
+	background-color: white;
+	color: black;
+}
+
+
+
+.active{
+	background-color: white;
+	color: black;
+}
+
+.container{
+	align-content: center;
+	padding-right: 10%;
+	padding-left: 10%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.mainBody{
+	background-color: white;
+	border: solid 0.1em black;
+
+}
+
 .nav{
-	background-color: black;
+	background-color: #999999;
 	margin-bottom: 1em;
+	padding-left: 1.1em;
+	padding-right: 1.1em;
+
 }
 
 .profileImg{
@@ -35,8 +75,23 @@ h1{
 }
 
 .icons{
-	margin: 1em;
-	height: 15%;
-	width: 15%;
+	margin-left: 1.4em;
+	height: 1.5em;
+	width: 1.5em;
+
 }
 
+.aboutMe{
+	padding-right: 1em;
+	padding-left: 2em;
+}
+
+.tIconHeader{
+	margin-left: 1em;
+	color: black;
+}
+
+.art{
+	padding-left: 10%;
+	padding-right: 10%;
+}
