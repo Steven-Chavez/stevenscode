@@ -37,16 +37,77 @@
 						</div>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-12 art">
-						<h3>Why I Think My Art Background Makes Me a Better Programmer</h3>
-						<p>Art is a craft you can develop over a lifetime and I've been developing it sense I was old enough to pick up a pencil. You can always learn new skills, techniques, or mediums. It's the never ending  aspect of art that attracts me to it and that is the same aspect I find in programming.</p>
+				<div class="row bodyPadding">
+					<div class="col-md-12">
+						<h2>How Art Relates to Programming</h2>
+						<p>As odd as it sounds, what attracts me to art is the same that attracts me to programming. You can spend a lifetime learning new skills, techniques, and mediums. It's not something that involves repeating the same thing over and over again everyday. That is the beauty of both crafts because mundane, repetitive, and un-challenging tasks are unbearable to me.</p>
+					</div>
+				</div>
+				<div class="row bodyPadding">
+					<div class="col-md-6 col-sm-12">
+						<h2>Pure Bliss</h2>
+						<h4>Medium: watercolor and ink</h4>
+						<p>
+							<img src="img/art/bliss_watercolor.jpg" class="art" />
+						</p>
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<h2>Grandpa</h2>
+						<h4>Medium: graphite</h4>
+						<p>
+							<img src="img/art/grandpa_graphite%20.jpg" class="art"/>
+						</p>
+					</div>
+				</div>
+				<div class="row bodyPadding">
+					<div class="col-md-6 col-sm-12">
+						<h2>More Than Jack and Sally</h2>
+						<h4>Medium: ink</h4>
+						<p>
+							<img src="img/art/myLovesGift_ink.jpg" class="art" />
+						</p>
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<h2>Aging Fabric</h2>
+						<h4>Medium: charcoal</h4>
+						<p>
+							<img src="img/art/fabric_charcoal.jpg" class="art" />
+						</p>
+					</div>
+				</div>
+				<div class="row bodyPadding">
+					<div class="col-md-6 col-sm-12">
+						<h2>Dragon</h2>
+						<h4>Medium: graphite</h4>
+						<p>
+							<img src="img/art/dragon_graphite.jpg" class="art" />
+						</p>
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<h2>Foo Dog</h2>
+						<h4>Medium: graphite</h4>
+						<p>
+							<img src="img/art/foodog_graphite.jpg" class="art" />
+						</p>
+					</div>
+				</div>
+				<div class="row bodyPadding">
+					<div class="col-md-6 col-sm-12">
+						<h2>First Rose</h2>
+						<h4>Medium: watercolor and ink</h4>
+						<p>
+							<img src="img/art/firstRose_watercolor_ink.jpg" class="art" />
+						</p>
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<h2>Animal Skull</h2>
+						<h4>Medium: Pastel</h4>
+						<p>
+							<img src="img/art/skull_pastel.jpg" class="art" />
+						</p>
 					</div>
 				</div>
 			</div>
 		</div>
-
-
-
 	</body>
 </html>

@@ -97,7 +97,14 @@ a:hover{
 	color: black;
 }
 
+.bodyPadding{
+	padding-left: 5em;
+	padding-right: 4em;
+	padding-bottom: 3em;
+}
+
 .art{
-	padding-left: 10%;
-	padding-right: 10%;
+	border: solid 0.1em black;
+	height: 30em;
+	width: 22em;
 }

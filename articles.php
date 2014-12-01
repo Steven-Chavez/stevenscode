@@ -37,8 +37,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-12 art">
+				<div class="row bodyPadding">
+					<div class="col-md-12">
 						<br>
 						<p class="quotes">
 							<strong>
