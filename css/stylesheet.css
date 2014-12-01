@@ -108,3 +108,32 @@ a:hover{
 	height: 30em;
 	width: 22em;
 }
+
+.resumePadding{
+	padding-left:10em;
+	padding-right: 10em;
+}
+
+.resumeHeader{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+
+}
+
+.resumeContact{
+	font-size: 1em;
+	text-align: center;
+}
+
+.resumeIcons{
+	height: 1.5em;
+	width: 1.5em;
+}
+
+.resumeTitles{
+	font-weight: bold;
+	border-bottom: solid 0.125em black;
+	font-size: 1.5em;
+	margin-top: 2em;
+}
