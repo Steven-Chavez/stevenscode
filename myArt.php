@@ -48,14 +48,14 @@
 						<h2>Pure Bliss</h2>
 						<h4>Medium: watercolor and ink</h4>
 						<p>
-							<img src="img/art/bliss_watercolor.jpg" class="art" />
+							<img src="img/art/bliss_watercolor.jpg" class="img-responsive art" />
 						</p>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h2>Grandpa</h2>
 						<h4>Medium: graphite</h4>
 						<p>
-							<img src="img/art/grandpa_graphite%20.jpg" class="art"/>
+							<img src="img/art/grandpa_graphite%20.jpg" class="img-responsive art"/>
 						</p>
 					</div>
 				</div>
@@ -64,14 +64,14 @@
 						<h2>More Than Jack and Sally</h2>
 						<h4>Medium: ink</h4>
 						<p>
-							<img src="img/art/myLovesGift_ink.jpg" class="art" />
+							<img src="img/art/myLovesGift_ink.jpg" class="img-responsive art" />
 						</p>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h2>Aging Fabric</h2>
 						<h4>Medium: charcoal</h4>
 						<p>
-							<img src="img/art/fabric_charcoal.jpg" class="art" />
+							<img src="img/art/fabric_charcoal.jpg" class="img-responsive art" />
 						</p>
 					</div>
 				</div>
@@ -80,14 +80,14 @@
 						<h2>Dragon</h2>
 						<h4>Medium: graphite</h4>
 						<p>
-							<img src="img/art/dragon_graphite.jpg" class="art" />
+							<img src="img/art/dragon_graphite.jpg" class="img-responsive art" />
 						</p>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h2>Foo Dog</h2>
 						<h4>Medium: graphite</h4>
 						<p>
-							<img src="img/art/foodog_graphite.jpg" class="art" />
+							<img src="img/art/foodog_graphite.jpg" class="img-responsive art" />
 						</p>
 					</div>
 				</div>
@@ -96,14 +96,14 @@
 						<h2>First Rose</h2>
 						<h4>Medium: watercolor and ink</h4>
 						<p>
-							<img src="img/art/firstRose_watercolor_ink.jpg" class="art" />
+							<img src="img/art/firstRose_watercolor_ink.jpg" class="img-responsive art" />
 						</p>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h2>Animal Skull</h2>
 						<h4>Medium: Pastel</h4>
 						<p>
-							<img src="img/art/skull_pastel.jpg" class="art" />
+							<img src="img/art/skull_pastel.jpg" class="img-responsive art" />
 						</p>
 					</div>
 				</div>
