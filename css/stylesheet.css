@@ -12,9 +12,11 @@ body{
 
 }
 
-h1{
+h1.nameHeader{
 	padding-top: 5%;
-	color: white;
+	color: #1b75d1;
+	font-weight: bold;
+	text-shadow: 2px 5px 20px black;
 }
 
 h2{
@@ -143,6 +145,11 @@ a:focus{
 	border-bottom: solid 0.125em black;
 	font-size: 1.5em;
 	margin-top: 2em;
+}
+
+#contactHeader{
+	text-align: center;
+	font-weight: 400;
 }
 
 #overlay {

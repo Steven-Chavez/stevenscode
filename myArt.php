@@ -8,7 +8,7 @@
 	<body>
 		<div class="container">
 			<header>
-				<a href="http://www.stevenscode.com"><h1>STEVEN CHAVEZ</h1></a>
+				<a href="index.php"><h1 class="nameHeader">STEVEN CHAVEZ</h1></a>
 			</header>
 			<div class="row mainBody">
 				<nav class="nav">

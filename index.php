@@ -1,19 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Steven Chavez</title>
-		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
-		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-		<link rel="stylesheet" type="text/css" href="../css/stylesheet.css">
+		<?php require_once("php/stubs/header.php"); ?>
+		<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
 	</head>
 	<body>
 		<div class="container">
 			<header>
-				<a href="http://www.stevenscode.com"><h1>STEVEN CHAVEZ</h1></a>
+				<a href="index.php"><h1 class="nameHeader">STEVEN CHAVEZ</h1></a>
 			</header>
 			<div class="row mainBody">
 				<nav class="nav">
@@ -61,13 +55,14 @@
 								@schavez256
 							</a>
 						</p>
-
 					</div>
 					<article class="col-md-9 col-sm-12 col-xs-12 aboutMe">
 						<h2>ABOUT ME</h2>
 						<p>Learning new concepts and acquiring a better understanding of familiar concepts comes easy to me because programming is my passion.</p>
+
 					</article>
 				</div>
+
 			</div>
 			<footer class="row">
 			</footer>
