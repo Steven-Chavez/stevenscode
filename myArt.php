@@ -1,19 +1,17 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Steven Chavez</title>
-		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+		<?php require_once("php/stubs/header.php"); ?>
 		<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+		<script src="js/myArt.js"></script>
 	</head>
 	<body>
 		<div class="container">
-			<a href="http://www.stevenscode.com"><h1>STEVEN CHAVEZ</h1></a>
+			<header>
+				<a href="http://www.stevenscode.com"><h1>STEVEN CHAVEZ</h1></a>
+			</header>
 			<div class="row mainBody">
-				<div class="nav">
+				<nav class="nav">
 					<div class="row">
 						<div class="col-md-3 col-sm-3 col-xs-6 tab">
 							<a href="articles.php">
@@ -36,7 +34,7 @@
 							</a>
 						</div>
 					</div>
-				</div>
+				</nav>
 				<div class="row bodyPadding">
 					<div class="col-md-12">
 						<h2>How Art Relates to Programming</h2>
@@ -48,14 +46,18 @@
 						<h2>Pure Bliss</h2>
 						<h4>Medium: watercolor and ink</h4>
 						<p>
-							<img src="img/art/bliss_watercolor.jpg" class="img-responsive art" />
+							<a href="img/art/bliss_watercolor.jpg" class="lightbox">
+								<img src="img/art/bliss_watercolor.jpg" class="img-responsive art" />
+							</a>
 						</p>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h2>Grandpa</h2>
 						<h4>Medium: graphite</h4>
 						<p>
-							<img src="img/art/grandpa_graphite%20.jpg" class="img-responsive art"/>
+							<a href="img/art/grandpa_graphite%20.jpg" class="lightbox">
+								<img src="img/art/grandpa_graphite%20.jpg" class="img-responsive art"/>
+							</a>
 						</p>
 					</div>
 				</div>
@@ -64,14 +66,18 @@
 						<h2>More Than Jack and Sally</h2>
 						<h4>Medium: ink</h4>
 						<p>
-							<img src="img/art/myLovesGift_ink.jpg" class="img-responsive art" />
+							<a href="img/art/myLovesGift_ink.jpg" class="lightbox">
+								<img src="img/art/myLovesGift_ink.jpg" class="img-responsive art" />
+							</a>
 						</p>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h2>Aging Fabric</h2>
 						<h4>Medium: charcoal</h4>
 						<p>
-							<img src="img/art/fabric_charcoal.jpg" class="img-responsive art" />
+							<a href="img/art/fabric_charcoal.jpg" class="lightbox">
+								<img src="img/art/fabric_charcoal.jpg" class="img-responsive art" />
+							</a>
 						</p>
 					</div>
 				</div>
@@ -80,14 +86,18 @@
 						<h2>Dragon</h2>
 						<h4>Medium: graphite</h4>
 						<p>
-							<img src="img/art/dragon_graphite.jpg" class="img-responsive art" />
+							<a href="img/art/dragon_graphite.jpg" class="lightbox">
+								<img src="img/art/dragon_graphite.jpg" class="img-responsive art" />
+							</a>
 						</p>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h2>Foo Dog</h2>
 						<h4>Medium: graphite</h4>
 						<p>
-							<img src="img/art/foodog_graphite.jpg" class="img-responsive art" />
+							<a href="img/art/foodog_graphite.jpg" class="lightbox">
+								<img src="img/art/foodog_graphite.jpg" class="img-responsive art" />
+							</a>
 						</p>
 					</div>
 				</div>
@@ -96,18 +106,24 @@
 						<h2>First Rose</h2>
 						<h4>Medium: watercolor and ink</h4>
 						<p>
-							<img src="img/art/firstRose_watercolor_ink.jpg" class="img-responsive art" />
+							<a href="img/art/firstRose_watercolor_ink.jpg" class="lightbox">
+								<img src="img/art/firstRose_watercolor_ink.jpg" class="img-responsive art" />
+							</a>
 						</p>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h2>Animal Skull</h2>
 						<h4>Medium: Pastel</h4>
 						<p>
-							<img src="img/art/skull_pastel.jpg" class="img-responsive art" />
+							<a href="img/art/skull_pastel.jpg" class="lightbox">
+								<img src="img/art/skull_pastel.jpg" class="img-responsive art" />
+							</a>
 						</p>
 					</div>
 				</div>
 			</div>
+			<footer class="row">
+			</footer>
 		</div>
 	</body>
 </html>

@@ -28,14 +28,20 @@ h3{
 a{
 	color: black;
 	text-decoration: none;
+	outline: 0;
 }
+
 a:hover{
 	color: black;
 	text-decoration: none;
 }
 
+a:focus{
+	outline: 0;
+}
+
 .tab:hover{
-	background-color: white;
+	background-color: #CCCCCC;
 	color: black;
 }
 
@@ -112,6 +118,7 @@ a:hover{
 .resumePadding{
 	padding-left:10em;
 	padding-right: 10em;
+	padding-bottom: 5em;
 }
 
 .resumeHeader{
@@ -136,4 +143,17 @@ a:hover{
 	border-bottom: solid 0.125em black;
 	font-size: 1.5em;
 	margin-top: 2em;
+}
+
+#overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: black no-repeat scroll center center;
+}
+
+#lightbox {
+	position: absolute;
 }
