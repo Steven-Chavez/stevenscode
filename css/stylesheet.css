@@ -5,7 +5,8 @@
 
 
 body{
-	background-color: #333333;
+	/* background-color: #333333;*/
+	background-color: black;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	width: 100%;
 	color: black;
@@ -14,9 +15,10 @@ body{
 
 h1.nameHeader{
 	padding-top: 5%;
-	color: #1b75d1;
+	color: white;
+
 	font-weight: bold;
-	text-shadow: 2px 5px 20px black;
+	text-shadow: 2px 5px 20px grey;
 }
 
 h2{
@@ -65,7 +67,7 @@ a:focus{
 .mainBody{
 	background-color: white;
 	border: solid 0.1em black;
-
+	margin-bottom: 15em;
 }
 
 .nav{
