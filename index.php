@@ -60,6 +60,12 @@
 						<h2>ABOUT ME</h2>
 						<p>Learning new concepts and acquiring a better understanding of familiar concepts comes easy to me because programming is my passion.</p>
 
+						<h2>NET NEUTRALITY</h2>
+						<P>I am big believer in freedom and human rights. Naturally the more I learned about net neutrality the more I supported it. I personally view what corporations like Comcast and Verizon want to do to the internet is oppressive. What makes the internet amazing is the wide selection and availability of content and services that are easily accessible. Anything is possible and can be created on the web only with the limitations of your own imagination getting in the way. If big corporations win the equality, opportunities, freedom, accessibility, and possibilities of the web will be replaced with segregation, censored material, and place where creativity can't grow. </P>
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe class="embed-responsive-item" src="//www.youtube.com/embed/NAxMyTwmu_M" frameborder="0" allowfullscreen></iframe>
+						</div>
+
 					</article>
 				</div>
 

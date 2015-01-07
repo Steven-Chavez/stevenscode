@@ -67,7 +67,9 @@ a:focus{
 .mainBody{
 	background-color: white;
 	border: solid 0.1em black;
-	margin-bottom: 15em;
+	margin-bottom: 1em;
+	padding-bottom: 2em;
+	overflow: hidden;
 }
 
 .nav{
@@ -85,7 +87,7 @@ a:focus{
 }
 
 .profileImg{
-	margin-left: 1em;
+	margin-left: 0.5em;
 	border: solid 0.2em black;
 	border-radius: 2.5%;
 }
@@ -98,8 +100,9 @@ a:focus{
 }
 
 .aboutMe{
-	padding-right: 1em;
+	padding-right: 2em;
 	padding-left: 2em;
+	border-left: 0.2em solid lightgray;
 }
 
 .tIconHeader{
