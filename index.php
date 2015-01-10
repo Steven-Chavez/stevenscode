@@ -37,7 +37,7 @@
 				<div class="row">
 					<div class="col-md-3 col-sm-12 col-xs-12">
 						<p>
-							<img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/094/11a/0a98759.jpg" class="img-responsive profileImg" alt="Picture of Steven"/>
+							<img src="img/icons/profilePic.JPG" class="img-responsive profileImg" alt="Picture of Steven"/>
 						</p>
 						<p>
 							<a href="https://www.linkedin.com/pub/steven-chavez/a7/2a3/988">
