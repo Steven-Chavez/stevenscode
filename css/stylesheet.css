@@ -152,6 +152,23 @@ a:focus{
 	margin-top: 2em;
 }
 
+.articleMain{
+	padding-left: 1.4em;
+	padding-right: 1.2em;
+	padding-top: 1em;
+}
+
+button.link{
+	background: none;
+	border: none;
+	color: blue;
+}
+
+h4.link{
+	border-bottom: 0.1em solid gray;
+	text-align: center;
+}
+
 #contactHeader{
 	text-align: center;
 	font-weight: 400;

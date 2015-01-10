@@ -3,6 +3,7 @@
 	<head>
 		<?php require_once("php/stubs/header.php"); ?>
 		<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+		<script src="js/articles.js"></script>
 	</head>
 	<body>
 		<div class="container">
@@ -34,8 +35,14 @@
 						</div>
 					</div>
 				</nav>
-				<div class="row bodyPadding">
-					<div class="col-md-12">
+				<div class="row articleMain">
+					<div class="col-md-3">
+						<h4 class="link">
+							Article Titles
+						</h4>
+						<p><button id="loops101" class="link">Loops 101</button></p>
+					</div>
+					<div class="col-md-9">
 						<br>
 						<p class="quotes">
 							<strong>
