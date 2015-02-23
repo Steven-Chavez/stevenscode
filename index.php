@@ -1,77 +1,134 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<?php require_once("php/stubs/header.php"); ?>
-		<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
-	</head>
-	<body>
-		<div class="container">
-			<header>
-				<a href="index.php"><h1 class="nameHeader">STEVEN CHAVEZ</h1></a>
-			</header>
-			<div class="row mainBody">
-				<nav class="nav">
-					<div class="row">
-						<div class="col-md-3 col-sm-3 col-xs-6 tab">
-							<a href="articles.php">
-								<h3>Articles</h3>
-							</a>
-						</div>
-						<div class="col-md-3 col-sm-3 col-xs-6 tab">
-							<a href="resume.php">
-								<h3>Resume</h3>
-							</a>
-						</div>
-						<div class="col-md-3 col-sm-3 col-xs-6 tab">
-							<a href="myArt.php">
-								<h3>My Art</h3>
-							</a>
-						</div>
-						<div class="col-md-3 col-sm-3 col-xs-6 tab">
-							<a href="contact.php">
-								<h3>Contact</h3>
-							</a>
-						</div>
-					</div>
-				</nav>
-				<div class="row">
-					<div class="col-md-3 col-sm-12 col-xs-12">
-						<p>
-							<img src="img/icons/profilePic.JPG" class="img-responsive profileImg" alt="Picture of Steven"/>
-						</p>
-						<p>
-							<a href="https://www.linkedin.com/pub/steven-chavez/a7/2a3/988">
-								<img class="icons" src="img/icons/LinkedIn-InBug-2CRev(1).png" /> LinkedIn
-							</a>
-						</p>
-						<p>
-							<a href="https://github.com/Steven-Chavez">
-								<img class="icons" src="img/icons/GitHub-Mark-64px.png" /> /Steven-Chavez
-							</a>
-						</p>
-						<p>
-							<a href="https://twitter.com/schavez256">
-								<img class="icons" src="img/icons/Twitter_logo_blue.png" />
-								@schavez256
-							</a>
-						</p>
-					</div>
-					<article class="col-md-9 col-sm-12 col-xs-12 aboutMe">
-						<h2>ABOUT ME</h2>
-						<p>Learning new concepts and acquiring a better understanding of familiar concepts comes easy to me because programming is my passion.</p>
+<html lang="en">
 
-						<h2>NET NEUTRALITY</h2>
-						<P>I am big believer in freedom and human rights. Naturally the more I learned about net neutrality the more I supported it. I personally view what corporations like Comcast and Verizon want to do to the internet is oppressive. What makes the internet amazing is the wide selection and availability of content and services that are easily accessible. Anything is possible and can be created on the web only with the limitations of your own imagination getting in the way. If big corporations win the equality, opportunities, freedom, accessibility, and possibilities of the web will be replaced with segregation, censored material, and place where creativity can't grow. </P>
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe class="embed-responsive-item" src="//www.youtube.com/embed/NAxMyTwmu_M" frameborder="0" allowfullscreen></iframe>
-						</div>
+<head>
 
-					</article>
-				</div>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-			</div>
-			<footer class="row">
-			</footer>
-		</div>
-	</body>
+    <title>Steven Chavez</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <?php
+            require_once("php/stub/nav_stub.php");
+        ?>
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-3">
+                        <a href="#menu-toggle" class="btn btn-default btn-lg" id="menu-toggle">
+                            <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"> Menu</span>
+                        </a>
+                    </div>
+                </div>
+                <h1 class="pageBreak"><strong>Steven's Code</strong></h1>
+                <br>
+                <div class="row">
+                    <div class="col-sm-12 col-md-3">
+                        <a href="#" class="thumbnail">
+                            <img src="img/profilePic.JPG" alt="Steven Chavez">
+                        </a>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+
+                        <blockquote>
+                            <p>“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.”</p>
+                            <footer><cite title="Source Title">Steve Jobs</cite></footer>
+                        </blockquote>
+                        <p>Hello my name is Steven Chavez. It took me time to find what I loved doing but I knew I needed to find it. Writing code is my passion, I enjoy every aspect of it especially the problem solving and always being able to learn new concepts and skills. It is very meditative to me and keeps my mind on point. Now that I found what I love to do I'm running with no end in sight. With only an amazing and fulfilling career ahead of me. Thank you for your time and welcome to my site. </p>
+                    </div>
+                </div>
+                <br>
+                <h2 class="pageBreak"><strong>Current Projects</strong></h2>
+                <h3><em>Re-Designing My Personal Site</em></h3>
+                <div class="row">
+                    <div class="col-sm-12 col-md-9">
+                        <p>I decided I needed to give my personal site more of a professional and clean look. Not only is it a good opportunity to practice HTML, CSS, and Bootstrap but also to design a website where I can practice PHP, JavaScript, jQuery, MySQL, and any other language or skills I want to improve. Sorry for any inconvenience my site is currently being worked on and will be completed as soon as possible. </p>
+                        <div class="alert alert-info" role="alert"><strong>Heads up!</strong> I am reconstructing my site and will be finished soon.</div>
+                    </div>
+                </div>
+                <h3><em>Zend PHP Certification Training</em></h3>
+                <div class="row">
+                    <div class="col-sm-12 col-md-3">
+                        <a href="http://www.phparch.com/books/zend-php-5-certification-study-guide-3rd-edition/" class="thumbnail">
+                            <img src="http://www.phparch.com/wp-content/uploads/2015/02/3d_book-ZCE-260x300.png" alt="Zend Ceritification Study Guide">
+                        </a>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <p>
+                            I have recently purchased the <em>Zend Certification Study Guide</em> so that I can study and advance my php skills and knowledge. I plan on using my website as my training grounds. Providing me with an easy reference and helping to cement the concepts in my mind.
+                        </p>
+                        <br>
+                        <blockquote>
+                            <p>"Zend Certification is an industry-recognized benchmark used to validate PHP expertise while indicating a developer’s commitment to mastering the craft and being a professional programmer."</p>
+                        </blockquote>
+                    </div>
+                </div>
+                <h3 ><em>Developing my JavaScript Skills and Knowledge</em></h3>
+                <div class="row">
+                    <div class="col-sm-12 col-md-3">
+                        <a href="http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527" class="thumbnail">
+                            <img src="http://img1.imagesbn.com/p/9780596101992_p0_v2_s260x420.JPG" alt="Zend Ceritification Study Guide">
+                        </a>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <p>
+                            Right now my projects are to develop my skills. The best ways I can think of doing that is by books and implementing what I've learned into my website. I want to learn JavaScript to add that extra flare to websites. I decided to start by getting <em>JavaScript The Definitive Guide</em>  to take my JavaScript skills to the next level.
+                        </p>
+                        <br>
+                        <blockquote>
+                            <p>"Since 1996, JavaScript: The Definitive Guide has been the bible for JavaScript programmers—a programmer's guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by web browsers."</p>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
 </html>
