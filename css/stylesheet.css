@@ -10,3 +10,23 @@
 	width: 1.5em;
 	height: 1.5em;
 }
+
+.resumeTitles{
+	font-weight: bold;
+	border-bottom: solid 0.125em black;
+	font-size: 1.5em;
+	margin-top: 2em;
+}
+
+#overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: black no-repeat scroll center center;
+}
+
+#lightbox {
+	position: absolute;
+}

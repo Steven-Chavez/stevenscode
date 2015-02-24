@@ -13,19 +13,10 @@ echo <<<EOF
                     <a href="resume.php">Resume</a>
                 </li>
                 <li>
-                    <a href="#">Shortcuts</a>
+                    <a href="myArt.php">My Art</a>
                 </li>
                 <li>
-                    <a href="#">Overview</a>
-                </li>
-                <li>
-                    <a href="#">Events</a>
-                </li>
-                <li>
-                    <a href="#">About</a>
-                </li>
-                <li>
-                    <a href="#">Services</a>
+                    <a href="phpCode.php">PHP</a>
                 </li>
                 <li>
                     <a href="#">Contact</a>
