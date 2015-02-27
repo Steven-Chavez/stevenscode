@@ -30,3 +30,42 @@
 #lightbox {
 	position: absolute;
 }
+
+.codeLine{
+	border-left: 0.5em solid lightgreen;
+}
+
+.htmlCode{
+	padding: 2px 4px;
+	font-size: 90%;
+	color: #C7254E;
+	border-radius: 4px;
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+}
+
+.phpCode{
+	padding: 2px 4px;
+	font-size: 90%;
+	color: #CC7A00;
+	border-radius: 4px;
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+}
+
+.stringCode{
+	padding: 2px 4px;
+	font-size: 90%;
+	border-radius: 4px;
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+}
+
+.indent{
+	text-indent: 2em;
+}
+
+.codeComment{
+	padding: 2px 4px;
+	font-size: 90%;
+	color: #00FF00;
+	border-radius: 4px;
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+}

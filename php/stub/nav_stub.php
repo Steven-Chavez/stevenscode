@@ -1,5 +1,4 @@
 <?php
-
 echo <<<EOF
 	<!-- Sidebar -->
         <div id="sidebar-wrapper">
@@ -16,7 +15,7 @@ echo <<<EOF
                     <a href="myArt.php">My Art</a>
                 </li>
                 <li>
-                    <a href="phpCode.php">PHP</a>
+                    <a href="php.php">PHP</a>
                 </li>
                 <li>
                     <a href="#">Contact</a>
@@ -26,9 +25,3 @@ echo <<<EOF
         <!-- /#sidebar-wrapper -->
 
 EOF;
-
-
-
-
-
-?>

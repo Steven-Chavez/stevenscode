@@ -47,8 +47,31 @@
 					</div>
 					<br>
 					<main class="row">
-
+						<div class="col-md-10 col-md-offset-1 col-sm-12">
+							<h1 class="text-center">PHP</h1>
+							<h2 class="text-center">(PHP: Hypertext Preprocessor)</h2>
+							<p class="text-center">I want to take my PHP knowledge to the next level. The best way I can think of doing that is by teaching and implementing the new concepts I learned here on my website. Also by developing this page and the pages that will be linked to it will help me prepare for the <em>Zend PHP Certification Exam</em>.</p>
+						</div>
 					</main>
+					<section class="row">
+						<div class="col-lg-6 col-sm-12">
+							<h3>PHP Basics</h3>
+							<ul>
+								<li><a href="phpSyntax.php">Syntax</a></li>
+								<!-- <li><a href="#">Operators</a></li>
+								<li><a href="#">Variables</a></li>
+								<li><a href="#">Control Structures</a></li>
+								<li><a href="#">Namespaces</a></li>
+								<li><a href="#">Extensions</a></li>
+								<li><a href="#">Language Constructs and Functions</a></li>
+								<li><a href="#">Config</a></li>
+								<li><a href="#">Performance/bytecode caching</a></li> -->
+							</ul>
+						</div>
+						<div class="col-lg-6 col-sm-12">
+
+						</div>
+					</section>
 				</div>
 			</div>
 		</div
