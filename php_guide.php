@@ -58,8 +58,8 @@
 							<h3>PHP Basics</h3>
 							<ul>
 								<li><a href="guide/php_syntax.php">Syntax</a></li>
+								<li><a href="/guide/php_types_variables.php">Types and Variables</a></li>
 								<!-- <li><a href="#">Operators</a></li>
-								<li><a href="#">Variables</a></li>
 								<li><a href="#">Control Structures</a></li>
 								<li><a href="#">Namespaces</a></li>
 								<li><a href="#">Extensions</a></li>
