@@ -67,6 +67,8 @@
 								through the rest of page.
 							</p>
 							<br>
+
+							<!-- PHP TYPES-->
 							<h3>PHP Types</h3>
 							<p>
 								Their are eight primitive types that PHP supports. I'll be giving examples of four out of the
@@ -114,11 +116,102 @@
 								</tbody>
 							</table>
 							<br>
+
+							<!-- PHP VARIABLES -->
+							<h3>PHP Variables</h3>
+							<p>
+								PHP variables start with a dollar sign <code>$</code> followed by the variable name. A
+								variable name has to start with either a letter or underscore. Any number of underscores, letters
+								or numbers can follow after. Variable names are case-sensitive. That means that $var and $Var are
+								considered different variables because they are not exactly the same. It's considered good practice
+								to initialize your variables even though PHP doesn't require you to do so.
+							</p>
+							<br>
+
+							<!-- TIP -->
+							<div class="alert alert-info" role="alert">
+								<strong>TIP: </strong>
+								Name your variables in a way that describes what
+								information it's containing. For example, a variable
+								that contains someones first name should be named
+								something like $firstName or $first_name not $x.
+							</div>
+							<br>
+							<h4>Variable Examples</h4>
+							<ol>
+								<li class="codeLine">
+									<span class="phpCode">&lt?php</span>
+								</li>
+								<li class="codeLine indent">
+									<span class="phpCode">$_var</span>
+									<span class="stringCode">= "hello";</span>
+									<span class="codeComment"> // valid variable</span>
+								</li>
+								<li class="codeLine indent">
+									<span class="phpCode">$var</span>
+									<span class="stringCode">= "bye";</span>
+									<span class="codeComment"> // valid variable</span>
+								</li>
+
+								<li class="codeLine"></li>
+								<li class="codeLine indent">
+									<span class="codeComment">
+										// next variable is called a
+										<a href="http://php.net/manual/en/language.variables.variable.php" style="color: #00FF00">
+											<u>variable variable</u>
+										</a>
+									</span>
+								</li>
+								<li class="codeLine indent">
+									<span class="phpCode">$$var</span>
+									<span class="stringCode">= "weird";</span>
+									<span class="codeComment"> // valid variable</span>
+								</li>
+
+								<li class="codeLine"></li>
+								<li class="codeLine indent">
+									<span class="phpCode">$1var</span>
+									<span class="stringCode">= "error";</span>
+									<span class="codeComment"> // invalid variable</span>
+								</li>
+							</ol>
+							<br>
+
+							<!-- DECLARING VARIABLE TYPES -->
+							<h3>How to declare a variables type?</h3>
 							<p>
 								With PHP types are determined by the context in which you use them. That means that you don't
 								have to tell PHP what type your variable is when you declare a variable. At runtime PHP decides
-								what type it is by what information it contains.
+								what type it is by what information you are putting
+								into it.
 							</p>
+							<br>
+							<h4>Variable Type Example</h4>
+							<ol>
+								<li class="codeLine">
+									<span class="phpCode">&lt?php</span>
+								</li>
+								<li class="codeLine indent">
+									<span class="phpCode">$bool</span>
+									<span class="stringCode">= true;</span>
+									<span class="codeComment"> // type boolean</span>
+								</li>
+								<li class="codeLine indent">
+									<span class="phpCode">$int</span>
+									<span class="stringCode">= 54;</span>
+									<span class="codeComment"> // type int</span>
+								</li>
+								<li class="codeLine indent">
+									<span class="phpCode">$float</span>
+									<span class="stringCode">= 2.456;</span>
+									<span class="codeComment"> // type float</span>
+								</li>
+								<li class="codeLine indent">
+									<span class="phpCode">$string</span>
+									<span class="stringCode">= "Bob";</span>
+									<span class="codeComment"> // type string</span>
+								</li>
+							</ol>
 
 						</div>
 					</div>
