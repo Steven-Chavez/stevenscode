@@ -57,7 +57,7 @@
 						<div class="col-lg-6 col-sm-12">
 							<h3>PHP Basics</h3>
 							<ul>
-								<li><a href="phpSyntax.php">Syntax</a></li>
+								<li><a href="guide/php_syntax.php">Syntax</a></li>
 								<!-- <li><a href="#">Operators</a></li>
 								<li><a href="#">Variables</a></li>
 								<li><a href="#">Control Structures</a></li>
