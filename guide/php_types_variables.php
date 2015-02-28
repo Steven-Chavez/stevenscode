@@ -60,12 +60,65 @@
 								and the rules for naming them; I want to try my best at explaining the relationship
 								they have to one another for beginning programmers.
 							</p>
-							<p>Types are like containers that can only contain specific things. For example you wouldn't
+							<p>
+								Types are like containers that can only contain specific things. For example you wouldn't
 								try to hold water on a plate, you would use a cup. Variables are like identifiers or name
 								tags on the container so that you can quickly reference them. I think that is enough to get you
-								through the rest page.
+								through the rest of page.
 							</p>
 							<br>
+							<h3>PHP Types</h3>
+							<p>
+								Their are eight primitive types that PHP supports. I'll be giving examples of four out of the
+								eight which are <em>boolean, int, float, </em>and <em>string</em>. We will go over the other
+								four in a later section witch are <em>array, object, resource, </em>and <em>NULL</em>.
+							</p>
+							<br>
+							<table class="table table-condensed">
+								<thead>
+									<tr>
+										<th>TYPE EXAMPLES</th></tr>
+									<tr style="background-color: lightgray">
+										<th>
+											Type
+										</th>
+										<th>
+											Example
+										</th>
+										<th>
+											Description
+										</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>boolean</td>
+										<td>false</td>
+										<td>Expresses a truth value</td>
+									</tr>
+									<tr>
+										<td>int</td>
+										<td>52</td>
+										<td>A whole number; no decimal</td>
+									</tr>
+									<tr>
+										<td>float</td>
+										<td>16.235</td>
+										<td>A number with decimal</td>
+									</tr>
+									<tr>
+										<td>string</td>
+										<td>"Dog"</td>
+										<td>A series of characters</td>
+									</tr>
+								</tbody>
+							</table>
+							<br>
+							<p>
+								With PHP types are determined by the context in which you use them. That means that you don't
+								have to tell PHP what type your variable is when you declare a variable. At runtime PHP decides
+								what type it is by what information it contains.
+							</p>
 
 						</div>
 					</div>
