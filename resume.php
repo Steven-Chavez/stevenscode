@@ -83,7 +83,7 @@
 									Front-End Programming (HTML, CSS3)
 								</li>
 								<li>
-									Able to learn and succeed in a fast passed learning environment
+									Able to learn and succeed in a fast paced learning environment
 								</li>
 								<li>
 									Self-motivated, eager to learn new skills and concepts
