@@ -66,19 +66,36 @@
                 </div>
                 <br>
                 <h2 class="pageBreak"><strong>Current Projects</strong></h2>
-                <h3><em>Design Patterns</em></h3>
+                <h3><em>Learning Design Patterns</em></h3>
                 <div class="row">
                     <div class="col-sm-12 col-md-9">
                         <p>
                             Having a solid background in Object-Oriented programming principles
                             like abstraction, inheritance, encapsulation, and polymorphism is crucial.
-                            But knowing Object-Oriented programming designs does not mean you know
-                            how to build flexible, reusable, and maintainable code. This is where 
-                            Design patterns come in. Design patterns make all the difference between
-                            junior and senior developers. 
+                            But knowing Object-Oriented programming basics does not mean you are a good
+                            Object-Oriented designer. Design patterns give you the ability to build 
+                            flexible, reusable, and maintainable code.
                         </p>
                     </div>
                 </div>
+                <h3><em>Code Everyday Challenge</em></h3>
+                <div class="row">
+                    <div class="col-sm-12 col-md-9">
+                        <p>
+                            If you want to improve. You have to put the work in. That is why I decided to 
+                            challenge myself to code everyday. In order to keep track of my progressed
+                            commit my code to <a href="https://github.com/Steven-Chavez">GitHub</a>. 
+                            My programming instructor told us, "Don't just code.
+                            Code something hard". I accomplish this through side projects like: 
+                            <a href="https://github.com/Steven-Chavez/CryptoChallenges">Crypto Challenges</a>,
+                            and <a href="https://github.com/Steven-Chavez/Inventory">Inventory</a>. 
+                            
+                            
+                     
+                        </p>
+                    </div>
+                </div>
+                <!--
                 <h3><em>Zend PHP Certification Training</em></h3>
                 <div class="row">
                     <div class="col-sm-12 col-md-3">
@@ -112,7 +129,7 @@
                             <p>"Since 1996, JavaScript: The Definitive Guide has been the bible for JavaScript programmers—a programmer's guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by web browsers."</p>
                         </blockquote>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
         <!-- /#page-content-wrapper -->
