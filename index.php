@@ -52,7 +52,7 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-3">
                         <a href="#" class="thumbnail">
-                            <img src="img/profilePic.JPG" alt="Steven Chavez">
+                            <img src="img/profile_pic.jpg" alt="Steven Chavez">
                         </a>
                     </div>
                     <div class="col-sm-12 col-md-6">
@@ -66,11 +66,17 @@
                 </div>
                 <br>
                 <h2 class="pageBreak"><strong>Current Projects</strong></h2>
-                <h3><em>Re-Designing My Personal Site</em></h3>
+                <h3><em>Design Patterns</em></h3>
                 <div class="row">
                     <div class="col-sm-12 col-md-9">
-                        <p>I decided I needed to give my personal site more of a professional and clean look. Not only is it a good opportunity to practice HTML, CSS, and Bootstrap but also to design a website where I can practice PHP, JavaScript, jQuery, MySQL, and any other language or skills I want to improve. Sorry for any inconvenience my site is currently being worked on and will be completed as soon as possible. </p>
-                        <div class="alert alert-info" role="alert"><strong>Heads up!</strong> I am reconstructing my site and will be finished soon.</div>
+                        <p>
+                            Having a solid background in Object-Oriented programming principles
+                            like abstraction, inheritance, encapsulation, and polymorphism is crucial.
+                            But knowing Object-Oriented programming designs does not mean you know
+                            how to build flexible, reusable, and maintainable code. This is where 
+                            Design patterns come in. Design patterns make all the difference between
+                            junior and senior developers. 
+                        </p>
                     </div>
                 </div>
                 <h3><em>Zend PHP Certification Training</em></h3>
