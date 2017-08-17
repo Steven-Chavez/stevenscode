@@ -9,16 +9,7 @@ echo <<<EOF
                     </a>
                 </li>
                 <li>
-                    <a href="resume.php">Resume</a>
-                </li>
-                <li>
                     <a href="my_art.php">My Art</a>
-                </li>
-                <li>
-                    <a href="php_guide.php">PHP</a>
-                </li>
-                <li>
-                    <a href="#">Contact</a>
                 </li>
             </ul>
         </div>

@@ -89,9 +89,6 @@
                             Code something hard". I accomplish this through side projects like: 
                             <a href="https://github.com/Steven-Chavez/CryptoChallenges">Crypto Challenges</a>,
                             and <a href="https://github.com/Steven-Chavez/Inventory">Inventory</a>. 
-                            
-                            
-                     
                         </p>
                     </div>
                 </div>
