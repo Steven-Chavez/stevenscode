@@ -47,7 +47,7 @@
                         </a>
                     </div>
                 </div>
-                <h1 class="pageBreak"><strong>Steven's Code</strong></h1>
+                <h1 class="pageBreak"><strong>Steven Chavez</strong></h1>
                 <br>
                 <div class="row">
                     <div class="col-sm-12 col-md-3">
