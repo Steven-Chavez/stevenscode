@@ -9,6 +9,9 @@ echo <<<EOF
                     </a>
                 </li>
                 <li>
+                    <a href="education.php">Education</a>
+                </li>
+                <li>
                     <a href="my_art.php">My Art</a>
                 </li>
             </ul>
