@@ -102,7 +102,7 @@
                         <div class="col-sm-12 col-md-9">
                             <p>
                                 If you want to improve. You have to put the work in. That is why I decided to 
-                                challenge myself to code everyday. In order to keep track of my progressed
+                                challenge myself to code everyday. In order to keep track of my progress
                                 commit my code to <a href="https://github.com/Steven-Chavez">GitHub</a>. 
                                 My programming instructor told us, "Don't just code.
                                 Code something hard". I accomplish this through side projects like: 
