@@ -47,11 +47,11 @@
                     <br>
                     <main class="row">
                         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
-                            <h1 class="text-center">Education</h1>
+                            <h1 class="text-center">Education</h1><br>
 
-                            <h2 class="resumeTitles">
+                            <!--<h2 class="resumeTitles">
                                 Overview
-                            </h2>
+                            </h2>-->
                             <p>
                                 Working full-time and being a successful full-time student is one of my biggest
                                 accomplishments. I know the importance of having an education but I also know that

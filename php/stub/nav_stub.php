@@ -9,6 +9,12 @@ echo <<<EOF
                     </a>
                 </li>
                 <li>
+                    <a href="index.php">Home</a>
+                </li>
+                <li>
+                    <a href="programming-languages.php">Programming Languages</a>
+                </li>
+                <li>
                     <a href="education.php">Education</a>
                 </li>
                 <li>
