@@ -60,7 +60,7 @@
                                 flexible is key. Any good developer with the above traits should be able to pick 
                                 up a programming book and learn a new language with minimal effort. The following 
                                 are programming languages that I have worked in. Below each logo are links to code 
-                                that I have writen in each langauge on my <a href="https://github.com/Steven-Chavez">GitHub</a> account. 
+                                that I have written in each language on my <a href="https://github.com/Steven-Chavez">GitHub</a> account. 
                             </p>
                             <br>
                             <div class="row">

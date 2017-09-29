@@ -60,7 +60,7 @@
                                 is keeping up with current events in my field. Second is through projects and personal
                                 challenges. Lastly is obtaining degrees in a field that I am passionate about.
                             </p>
-                            <h2 class="resumeTitles">Central New Mexico Community College</h2>
+                            <h2 class="resumeTitles">Grand Canyon University</h2>
                             <!-- GCU -->
                             <div class="row">
                                 <div class="col-md-2 col-sm-12">

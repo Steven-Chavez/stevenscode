@@ -56,7 +56,6 @@
                             </a>
                         </div>
                         <div class="col-sm-12 col-md-6">
-
                             <blockquote>
                                 <p>“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.”</p>
                                 <footer><cite title="Source Title">Steve Jobs</cite></footer>
@@ -65,17 +64,17 @@
                                 Welcome, my name is Steven Chavez. I am a programmer, full-stack web developer,
                                 IT professional, information security specialist in training, and an avid learner. 
                                 Problem solving, researching new technologies,
-                                and becoming profecient at those technologies is how I like to spend my time. Please
-                                feel free to follow me and my journey in the IT field at my LinkedIn and GitHub accounts. 
+                                and becoming proficient at those technologies is how I like to spend my time. Please
+                                feel free to follow me on my journey through the IT field on my LinkedIn and GitHub accounts. 
                             </p>
                             <br>
                             <div class="row">
-                                <div class="col-md-2 col-md-offset-4">
+                                <div class="col-xs-2 col-xs-offset-2">
                                     <a href="https://github.com/Steven-Chavez">
                                         <img style="height: 4em; width: 4em;"  src="img/GitHub-Mark-64px.png" alt="Steven Chavez">
                                     </a>
                                 </div>
-                                <div class="col-md-2">
+                                <div class="col-xs-2 col-xs-offset-2">
                                     <a href="https://www.linkedin.com/pub/steven-chavez/a7/2a3/988">
                                         <img style="height: 4em; width: 4em;"  src="img/LinkedIn-InBug-2CRev(1).png" alt="Steven Chavez">
                                     </a>
